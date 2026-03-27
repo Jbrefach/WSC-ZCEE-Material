@@ -1,6 +1,6 @@
-title: "WSC z/OS Connect Workshop Material"
+title: "WSC z/OS Connect Material"
 description: "WSC ZCEE Education Portal"
-remote_theme: pmarsceill/just-the-docs
+theme: jekyll-theme-slate
 
 # URL CONFIG (update if site is served from a project page)
 # baseurl: "/<repo-name>"  # Uncomment & customize when using a project site
