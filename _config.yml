@@ -1,6 +1,6 @@
 title: "WSC z/OS Connect Material"
 description: "WSC ZCEE Education Portal"
-theme: jekyll-theme-slate
+remote_theme: pmarsceill/just-the-docs
 
 # URL CONFIG (update if site is served from a project page)
 # baseurl: "/<repo-name>"  # Uncomment & customize when using a project site
@@ -10,59 +10,13 @@ theme: jekyll-theme-slate
 search_enabled: true
 color_scheme: light
 
-# NAVIGATION ORDER
-nav_order: 1
-nav_external_links:
-  # Add external links if desired
-
-# Sidebar Navigation
-nav:
-  - name: "Case Studies & Educational Material"
-    link: "/case-studies"
-    nav_order: 1
-
-  - name: "Labs"
-    link: "/labs"
-    nav_order: 2
-    children:
-      - name: "API Requester Labs"
-        link: "/labs/api-requester"
-      - name: "OpenAPI 2 Labs"
-        link: "/labs/openapi2"
-      - name: "OpenAPI 3 Labs"
-        link: "/labs/openapi3"
-
-  - name: "Workshops"
-    link: "/workshops"
-    nav_order: 3
-    children:
-      - name: "Liberty Workshops"
-        link: "/workshops/liberty"
-      - name: "z/OS Connect Workshops"
-        link: "/workshops/zosconnect"
-
-  - name: "ZCEE Container Material"
-    link: "/zcee-container"
-    nav_order: 4
-
-  - name: "CNTL Samples"
-    link: "/cntl-samples"
-    nav_order: 5
-
-  - name: "JCL Samples"
-    link: "/jcl-samples"
-    nav_order: 6
-
-  - name: "ZCEE Topics Guide"
-    link: "/topics-guide"
-    nav_order: 7
+# Sidebar navigation structure
 # Each section appears in the left sidebar
 collections:
   docs:
     output: true
     permalink: /:path/
 
-# Default front matter for pages
 defaults:
   - scope:
       path: ""
@@ -70,14 +24,7 @@ defaults:
     values:
       layout: default
 
-# Sidebar structure
-just_the_docs:
-  collections:
-    docs:
-      name: "Documentation"
-      nav_order: 1
-
-# Navigation tree
+# Sidebar Navigation
 nav:
   - name: "Case Studies & Educational Material"
     link: "/case-studies"
