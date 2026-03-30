@@ -11,6 +11,14 @@ Welcome to the centralized repository for all **z/OS Connect Enterprise Edition 
 Use the **sidebar** to navigate through the different material categories and the **search bar** (top right) to quickly locate topics, labs, samples, or reference materials.
 
 ---
+## 🚀 Getting Started
+Use the left navigation pane to access each section.  
+Material will be updated regularly and new assests will be added as the software evolves.
+
+## 🔎 Search
+Use the search bar at the top right of any page to find materials across the entire repository.  
+
+---
 
 ## 📘 Available Sections
 
@@ -61,17 +69,8 @@ z/OS Connect Topics guide has a wide variety of topics, best practices, configur
 
 ---
 
-## 🔎 Search
-Use the search bar at the top right of any page to find materials across the entire portal.  
-
----
-
-## 🚀 Getting Started
-Use the left navigation pane to access each section.  
-New materials will be added regularly as workshops evolve.
-
 ## 📬 Contact
-If you need assistance or would like to request additional content:
+If you need assistance, have questions, or have a request:
 
 **Email:** John.J.Brefach@IBM.com  
 **Team:** Technical Enablement | Worldwide Systems Center
