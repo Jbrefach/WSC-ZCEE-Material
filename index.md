@@ -8,7 +8,8 @@ nav_order: 0
 ### **WSC ZCEE Education Portal**
 
 Welcome to the centralized repository for all **z/OS Connect Enterprise Edition (ZCEE)** educational assets used by the Worldwide Systems Center (WSC).  
-Use the **sidebar** to navigate through the different material categories and the **search bar** (top right) to quickly locate topics, labs, samples, or reference materials.
+
+Use the **sidebar** to navigate through the different material categories and the **search bar** (top) to quickly locate topics, labs, samples, or reference materials.
 
 ---
 ## 🚀 Getting Started
@@ -16,7 +17,7 @@ Use the left navigation pane to access each section.
 Material will be updated regularly and new assests will be added as the software evolves.
 
 ## 🔎 Search
-Use the search bar at the top right of any page to find materials across the entire repository.  
+Use the search bar at the top of any page to find materials across the entire repository.  
 
 ---
 
