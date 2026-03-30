@@ -3,25 +3,21 @@ title: "WSC z/OS Connect Workshop Material"
 layout: default
 nav_order: 0
 ---
+<img width="600" height="315" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" />
 
 # WSC z/OS Connect Workshop Material
 ### **WSC ZCEE Education Portal**
 
 Welcome to the centralized repository for all **z/OS Connect Enterprise Edition (ZCEE)** educational assets used by the Worldwide Systems Center (WSC).  
 
-Use the **sidebar** to navigate through the different material categories and the **search bar** (top) to quickly locate topics, labs, samples, or reference materials.
-
 ---
-## 🚀 Getting Started
-Use the left navigation pane to access each section.  
+## 💡 Getting Started
+Use the **sidebar** to navigate through the different material categories and the **search bar** (top) to quickly to find materials across the entire repository.
 Material will be updated regularly and new assests will be added as the software evolves.
 
-## 🔎 Search
-Use the search bar at the top of any page to find materials across the entire repository.  
-
 ---
 
-## 📘 Available Sections
+## 📚 Available Sections
 
 ### **1. Case Studies & Educational Material**
 Case Studies & Educational Material folder contains best practices, configuration help, and educational packages to help understand certain topics
