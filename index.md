@@ -3,7 +3,7 @@ title: "WSC z/OS Connect Workshop Material"
 layout: default
 nav_order: 0
 ---
-<img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/fa01b478-7cd7-424d-9f84-5eb356b112d7" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/92e2193b-f1a2-4aa2-8794-3b90a8854220" />
 
 <img width="600" height="315" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" />
 
