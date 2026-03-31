@@ -12,7 +12,7 @@ Welcome to the centralized repository for all **z/OS Connect Enterprise Edition 
 
 ---
 ## 💡 Getting Started
-Use the **sidebar** to navigate through the different material categories and the **search bar** (top) to quickly to find materials across the entire repository.
+Use the **sidebar** to navigate through the different material categories or the **search bar** (top) to quickly to find materials across the entire repository.
 Material will be updated regularly and new assests will be added as the software evolves.
 
 ---
