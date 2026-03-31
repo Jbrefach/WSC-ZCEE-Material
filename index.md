@@ -5,7 +5,7 @@ nav_order: 0
 ---
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/92e2193b-f1a2-4aa2-8794-3b90a8854220" />
 
-<img width="600" height="315" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" />
 
 # WSC z/OS Connect Workshop Material
 ### **WSC ZCEE Education Portal**
