@@ -17,13 +17,13 @@ z/OS Connect Topics guide has a wide variety of topics, best practices, configur
 <a href="pdfs/topics-guide/zOS Connect EE V3 Topics Guide.pdf"
    target="_blank"
    class="ibm-btn ibm-btn-secondary">
-  Preview PDF
+  Full Screen Preview PDF
 </a>
 
 <a href="pdfs/topics-guide/zOS Connect EE V3 Topics Guide.pdf"
    download
    class="ibm-btn ibm-btn-primary">
-  Download PDF
+  Download Topics Guide PDF
 </a>
 
 <div class="doc-meta">
