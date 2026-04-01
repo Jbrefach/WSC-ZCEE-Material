@@ -5,4 +5,4 @@ nav_order: 7
 
 # ZCEE Topics Guide
 
-A curated set of concept explanations, terminology, component details, and technical overviews of z/OS Connect and related technologies.
+z/OS Connect Topics guide has a wide variety of topics, best practices, configuration support, and more pertaining to z/OS Connect
