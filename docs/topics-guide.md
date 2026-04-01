@@ -11,13 +11,13 @@ z/OS Connect Topics guide has a wide variety of topics, best practices, configur
   <strong>Last updated:</strong> Sept 3, 2025
 </div>
 
-<a href="../pdfs/topics-guide/zOS Connect EE V3 Topics Guide.pdf"
+<a href="../pdfs/topics-guide/zOS Connect-EE-V3-Topics-Guide.pdf"
    target="_blank"
    class="ibm-btn ibm-btn-secondary">
   Preview PDF
 </a>
 
-<a href="../pdfs/topics-guide/zOS Connect EE V3 Topics Guide.pdf"
+<a href="../pdfs/topics-guide/zOS-Connect-EE-V3-Topics-Guide.pdf"
    download
    class="ibm-btn ibm-btn-primary">
   Download PDF
