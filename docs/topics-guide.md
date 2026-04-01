@@ -17,7 +17,7 @@ z/OS Connect Topics guide has a wide variety of topics, best practices, configur
   Preview PDF
 </a>
 
-<a href="pdfs/topics-guide/zOS-Connect-EE-V3-Topics-Guide.pdf"
+<a href="pdfs/topics-guide/zOS Connect EE V3 Topics Guide.pdf"
    download
    class="ibm-btn ibm-btn-primary">
   Download PDF
