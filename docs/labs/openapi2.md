@@ -25,3 +25,17 @@ Labs using OpenAPI 2 definitions for inbound API flows
   Hands-on labs covering inbound REST API creation for MQ  
   [View lab details →](OAS2/MQ)
 
+### OpenAPI 2 Important Lab information PDF
+The "Important-Read Me" PDF contains general lab information, keyboard configuration help, and more
+
+<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
+   target="_blank"
+   class="ibm-btn ibm-btn-secondary">
+  Preview PDF 
+</a>
+
+<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
+   download
+   class="ibm-btn ibm-btn-primary">
+  Download Important-Read Me file
+</a>
