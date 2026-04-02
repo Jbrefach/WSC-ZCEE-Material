@@ -1,10 +1,10 @@
 ---
-title: "Developing RESTful APIs for accessing a CICS Channel or COMMAREA Program"
+title: "Developing RESTful APIs for a CICS Channel or COMMAREA Program"
 parent: "OpenAPI2"
 nav_order: 1
 ---
 
-## OpenAPI 2 – Developing RESTful APIs for accessing a CICS Channel Program
+## OpenAPI 2 – Developing RESTful APIs for a CICS Channel Program
 
 <iframe
   src="../../pdfs/labs/OAS2/Developing RESTful APIs for a CICS Channel program.pdf" 
@@ -30,7 +30,7 @@ nav_order: 1
 </div>
 
 
-## OpenAPI 2 – Developing RESTful APIs for accessing a CICS COMMAREA Program
+## OpenAPI 2 – Developing RESTful APIs for a CICS COMMAREA Program
 
 <iframe
   src="../../pdfs/labs/OAS2/Developing RESTful APIs for a CICS COMMAREA program.pdf"
