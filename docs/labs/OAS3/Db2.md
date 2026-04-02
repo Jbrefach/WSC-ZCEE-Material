@@ -1,6 +1,6 @@
 ---
 title: "Developing Native Server RESTful APIs for accesing Db2 REST Services"
-parent: "OpenAPI 3 Labs"
+parent: "OpenAPI3"
 nav_order: 1
 ---
 
