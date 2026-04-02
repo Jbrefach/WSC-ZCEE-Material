@@ -10,18 +10,18 @@ Labs using OpenAPI 2 definitions for inbound API flows
 ## Available Labs
 
 - **OpenAPI 2 – Developing RESTful APIs for a CICS Channel or COMMAREA Program**  
-  Hands-on lab covering inbound REST API creation for DB2 REST Services  
+  Hands-on lab covering inbound REST API creation for CICS Programs (Channel or COMMAREA)   
   [View lab details →](OAS2/CICS)
 
 - **OpenAPI 2 – Developing RESTful APIs for Db2 REST Services**  
-  Hands-on lab covering inbound REST API creation for CICS Programs  
+  Hands-on lab covering inbound REST API creation for DB2 REST Services 
   [View lab details →](OAS2/Db2)
 
 - **OpenAPI 2 – Developing RESTful APIs for IMS Transactions**  
   Hands-on labs covering inbound REST API creation for IMS
   [View lab details →](OAS2/IMS)
 
-  - **OpenAPI 2 – Developing RESTful APIs for MQ**  
+- **OpenAPI 2 – Developing RESTful APIs for MQ**  
   Hands-on labs covering inbound REST API creation for MQ
   [View lab details →](OAS2/MQ)
 
