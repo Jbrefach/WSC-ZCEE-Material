@@ -27,19 +27,19 @@ This page contains z/OS Connect OpenAPI 3 specific hands-on labs for the API Pro
 The "Important-Read Me" PDF contains general lab information, keyboard configuration help, updating YAML files for OAS3 APIs, and more
 
 <iframe
-  src="../../pdfs/labs/OAS2/Important-Read Me.pdf" 
+  src="../pdfs/labs/OAS2/Important-Read Me.pdf" 
   width="100%"
   height="600px"
   style="border:1px solid #ccc">
 </iframe>
 
-<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
+<a href="../pdfs/labs/OAS2/Important-Read Me.pdf"
    target="_blank"
    class="ibm-btn ibm-btn-secondary">
   Preview PDF 
 </a>
 
-<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
+<a href="../pdfs/labs/OAS2/Important-Read Me.pdf"
    download
    class="ibm-btn ibm-btn-primary">
   Download Important-Read Me file
