@@ -1,10 +1,10 @@
 ---
-title: "Developing Native Server RESTful APIs for accesing a CICS Program"
+title: "Developing Native Server RESTful APIs for accessing a CICS Program"
 parent: "OpenAPI3"
 nav_order: 1
 ---
 
-# OpenAPI 3 – Developing Native Server RESTful APIs for accesing a CICS Program
+# OpenAPI 3 – Developing Native Server RESTful APIs for accessing a CICS Program
 
 <iframe
   src="../../pdfs/labs/OAS3/Developing Native Server RESTful APIs for accessing a CICS Program .pdf"
