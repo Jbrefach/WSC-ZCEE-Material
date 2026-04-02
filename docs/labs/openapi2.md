@@ -29,19 +29,19 @@ Labs using OpenAPI 2 definitions for inbound API flows
 The "Important-Read Me" PDF contains general lab information, keyboard configuration help, and more
 
 <iframe
-  src="../../pdfs/labs/OAS2/Important-Read Me.pdf" 
+  src="../pdfs/labs/OAS2/Important-Read Me.pdf" 
   width="100%"
   height="600px"
   style="border:1px solid #ccc">
 </iframe>
 
-<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
+<a href="../pdfs/labs/OAS2/Important-Read Me.pdf"
    target="_blank"
    class="ibm-btn ibm-btn-secondary">
   Full-screen preview PDF 
 </a>
 
-<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
+<a href="../pdfs/labs/OAS2/Important-Read Me.pdf"
    download
    class="ibm-btn ibm-btn-primary">
   Download Important-Read Me file
