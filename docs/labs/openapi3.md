@@ -20,5 +20,5 @@ This page contains z/OS Connect OpenAPI 3 specific hands-on labs for the API Pro
 
 - **OpenAPI 3 – IMS OpenAPI3 Labs (4 parts)**  
   Hands-on labs covering inbound REST API creation for IMS. This is a 4 part lab with a part for each HTTP Verb (GET, POST, PUT, DELETE)
-  View lab details →
+  [View lab details →](OAS3/IMS)
 
