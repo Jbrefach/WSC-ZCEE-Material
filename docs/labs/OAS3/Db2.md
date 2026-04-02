@@ -25,6 +25,10 @@ nav_order: 1
   Download OAS3 Db2 Lab PDF
 </a>
 
+<div class="doc-meta">
+  <strong>Lab Version Date:</strong> Aug 8, 2024
+</div>
+
 ## OpenAPI 3 development for Db2 APIs Copy/Paste text file
 The Db2 copy/paste text file contains commands and other text used in this workshop. Open the file and use the copy-and-paste functions to enter commands or text. 
 It will save time and help avoid typo errors. As a reminder text that appears in this file will be highlighted in yellow within the lab.
@@ -40,7 +44,3 @@ It will save time and help avoid typo errors. As a reminder text that appears in
    class="ibm-btn ibm-btn-primary">
   Download Db2 Lab Copy/paste txt file
 </a>
-
-<div class="doc-meta">
-  <strong>Lab Version Date:</strong> Aug 8, 2024
-</div>
