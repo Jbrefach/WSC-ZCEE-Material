@@ -53,19 +53,3 @@ nav_order: 1
 <div class="doc-meta">
   <strong>Lab Version Date:</strong> Apr 5, 2024
 </div>
-
-### OpenAPI 2 Important Lab information PDF
-The "Important-Read Me" PDF contains general lab information, keyboard configuration help, and more
-
-<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
-   target="_blank"
-   class="ibm-btn ibm-btn-secondary">
-  Preview PDF 
-</a>
-
-<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
-   download
-   class="ibm-btn ibm-btn-primary">
-  Download Important-Read Me file
-</a>
-
