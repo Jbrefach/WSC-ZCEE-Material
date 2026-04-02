@@ -45,3 +45,17 @@ It will save time and help avoid typo errors. As a reminder text that appears in
   <strong>Lab Version Date:</strong> Aug 8, 2024
 </div>
 
+## OpenAPI 3 Important Lab information PDF
+The "Important-Read Me" PDF contains general lab information, keyboard configuration help, updating YAML files for OAS3 APIs, and more
+
+<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
+   target="_blank"
+   class="ibm-btn ibm-btn-secondary">
+  Preview PDF 
+</a>
+
+<a href="../../pdfs/labs/OAS2/Important-Read Me.pdf"
+   download
+   class="ibm-btn ibm-btn-primary">
+  Download Important-Read Me file
+</a>
