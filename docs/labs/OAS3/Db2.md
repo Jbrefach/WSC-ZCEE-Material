@@ -29,13 +29,13 @@ nav_order: 1
 The Db2 copy/paste text file contains commands and other text used in this workshop. Open the file and use the copy-and-paste functions to enter commands or text. 
 It will save time and help avoid typo errors. As a reminder text that appears in this file will be highlighted in yellow within the lab.
 
-<a href="../../pdfs/labs/OAS3/OpenAPI 3 development  for Db2 APIs CopyPaste .txt"
+<a href="../../pdfs/labs/OAS3/txt/OpenAPI 3 development for Db2 APIs CopyPaste.txt"
    target="_blank"
    class="ibm-btn ibm-btn-secondary">
   Preview txt file
 </a>
 
-<a href="../../pdfs/labs/OAS3/OpenAPI 3 development  for Db2 APIs CopyPaste .txt"
+<a href="../../pdfs/labs/OAS3/txt/OpenAPI 3 development for Db2 APIs CopyPaste.txt"
    download
    class="ibm-btn ibm-btn-primary">
   Download Db2 Lab Copy/paste txt file
