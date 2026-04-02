@@ -12,7 +12,7 @@ This page contains z/OS Connect OpenAPI 3 specific hands-on labs for the API Pro
 
 - **OpenAPI 3 – Developing Native Server RESTful APIs for accessing Db2 REST Services**  
   Hands-on lab covering inbound REST API creation for DB2 REST Services  
-  [View lab details →](/OAS3/Db2)
+  [View lab details →](labs/OAS3/Db2)
 
 - **OpenAPI 3 – Developing Native Server RESTful APIs for accessing a CICS Program**  
   Hands-on lab covering inbound REST API creation for CICS Programs  
