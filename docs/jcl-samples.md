@@ -23,12 +23,10 @@ Example JCL members used for automation, testing, and integration with z/OS Conn
 | File Name | Preview | Download |
 |----------|--------|----------|
 | APIDEPLY | 🔍 [Preview](pdfs/jcl-samples/APIDEPLY.txt){:target="_blank"} | <a href="pdfs/jcl-samples/APIDEPLY.txt" download> ⬇️ Download txt file</a>|
-| AUTHGRPS | 🔍 [Preview](pdfs/jcl-samples/AUTHGRPS.txt){:target="_blank"} |  ⬇️[Download](pdfs/jcl-samples/AUTHGRPS.txt){:download}|
-| AVZCICSD | 🔍 [Preview](pdfs/jcl-samples/AVZCICSD.txt){:target="_blank"} | ⬇️ [Download](pdfs/jcl-samples/AVZCICSD.txt){:download}|
-| BAQSMPF | 🔍 [Preview](pdfs/jcl-samples/BAQSMPF.txt){:target="_blank"} | ⬇️ [Download](pdfs/jcl-samples/BAQSMPF.txt)|
-| BBGPTKT | 🔍 [Preview](pdfs/jcl-samples/BBGPTKT.txt){:target="_blank"} | ⬇️ [Download](pdfs/jcl-samples/BBGPTKT.txt)|
-| CCEROPT | 🔍 [Preview](pdfs/jcl-samples/CEEROPT.txt){:target="_blank"} | ⬇️ [Download](pdfs/jcl-samples/CEEROPT.txt)|
-| CHKJAVA | 🔍 [Preview](pdfs/jcl-samples/CHKJAVA.txt){:target="_blank"} | ⬇️ [Download](pdfs/jcl-samples/CHKJAVA.txt)|
-| CICSTLS3 | 🔍 [Preview](pdfs/jcl-samples/CICSTLS3.txt){:target="_blank"} | ⬇️ [Download](pdfs/jcl-samples/CICSTLS3.txt)|
-
-(pdfs/jcl-samples/APIDEPLY.txt)
+| AUTHGRPS | 🔍 [Preview](pdfs/jcl-samples/AUTHGRPS.txt){:target="_blank"} | <a href="pdfs/jcl-samples/AUTHGRPS.txt" download> ⬇️ Download txt file</a>
+| AVZCICSD | 🔍 [Preview](pdfs/jcl-samples/AVZCICSD.txt){:target="_blank"} | <a href="pdfs/jcl-samples/AVZCICSD.txt" download> ⬇️ Download txt file</a>
+| BAQSMPF | 🔍 [Preview](pdfs/jcl-samples/BAQSMPF.txt){:target="_blank"} | <a href="pdfs/jcl-samples/BAQSMPF.txt" download> ⬇️ Download txt file</a>
+| BBGPTKT | 🔍 [Preview](pdfs/jcl-samples/BBGPTKT.txt){:target="_blank"} | <a href="pdfs/jcl-samples/BBGPTKT.txt" download> ⬇️ Download txt file</a>
+| CCEROPT | 🔍 [Preview](pdfs/jcl-samples/CEEROPT.txt){:target="_blank"} | <a href="pdfs/jcl-samples/CEEROPT.txt" download> ⬇️ Download txt file</a>
+| CHKJAVA | 🔍 [Preview](pdfs/jcl-samples/CHKJAVA.txt){:target="_blank"} | <a href="pdfs/jcl-samples/CHKJAVA.txt" download> ⬇️ Download txt file</a>
+| CICSTLS3 | 🔍 [Preview](pdfs/jcl-samples/CICSTLS3.txt){:target="_blank"} | <a href="pdfs/jcl-samples/CICSTLS3.txt" download> ⬇️ Download txt file</a>
