@@ -23,7 +23,7 @@ This page contains z/OS Connect OpenAPI 3 specific hands-on labs for the API Pro
   This is a 4 part lab with a part for each HTTP Verb (GET, POST, PUT, DELETE)  
   [View lab details →](OAS3/IMS)
 
-## OpenAPI 3 Important Lab information PDF
+### **OpenAPI 3 Important Lab information PDF**
 The "Important-Read Me" PDF contains general lab information, keyboard configuration help, updating YAML files for OAS3 APIs, and more
 
 <iframe
