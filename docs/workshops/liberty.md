@@ -3,7 +3,7 @@ title: "Liberty Workshops"
 parent: "Workshops"
 ---
 
-# Liberty Workshops <img width="100" height="250" alt="image" src="https://github.com/user-attachments/assets/d300ec8d-010b-499a-9e8d-753147d71c92" />
+# Liberty Workshops <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/d300ec8d-010b-499a-9e8d-753147d71c92" />
 
 Workshops focused on Liberty runtime, configuration, deployment, and operational integration with ZCEE.
 
