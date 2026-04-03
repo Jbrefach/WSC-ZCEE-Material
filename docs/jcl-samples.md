@@ -3,19 +3,13 @@ title: "JCL Samples"
 nav_order: 6
 ---
 
-# JCL Samples
-
-Example JCL members used for automation, testing, and integration with z/OS Connect.
----
-title: "JCL Coding Samples"
-nav_order: 6
----
-
 # JCL Coding Samples
 
-This page contains reusable JCL examples used across WSC z/OS Connect labs, workshops, and demonstrations.
+This page contains reusable JCL examples used across WSC z/OS Connect labs, workshops, and demonstrations. 
 
 Use **Preview** to view the file contents directly in your browser, or **Download** to save a local copy.
+
+Example JCL members used for automation, testing, and integration with z/OS Connect.
 
 ---
 
@@ -23,17 +17,9 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 
 | File Name | Preview | Download |
 |---------|---------|----------|
-| APIDEPLY.txt |
-../pdfs/cntl-samples/APIDEPLY.txt
-  Preview
-</a> |
-../pdfs/cntl-samples/APIDEPLY.txt
-  Download
-</a> |
-| RESTART_JOB.txt |
-../assets/text/jcl/restart_job.txt
-  Preview
-</a> |
+|APIDEPLY | <a href="../pdfs/cntl-samples/APIDEPLY.txt" target="_blank" class="ibm-btn ibm-btn-secondary"> Preview </a> | <a href="../pdfs/cntl-samples/APIDEPLY.txt" download class="ibm-btn ibm-btn-primary"> Download </a> |
+|AVZCICSD | <a href="../pdfs/cntl-samples/AVZCICSD.txt" target="_blank" class="ibm-btn ibm-btn-secondary"> Preview </a> | <a href="../pdfs/cntl-samples/AVZCICSD.txt" download class="ibm-btn ibm-btn-primary"> Download </a> |
+|
 ../assets/text/jcl/restart_job.txt
   Download
 </a> |
