@@ -56,6 +56,7 @@ nav:
           link: "/workshops/liberty/monitor"
       - name: "z/OS Connect Workshops"
         link: "/workshops/zosconnect"
+        children:
         - name: "API Provider (Inbound)"
           link: "/workshops/liberty/provider"
         - name: "API Requester (Outbound)"
