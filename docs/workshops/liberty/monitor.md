@@ -1,7 +1,7 @@
 ---
 title: "WebSphere Liberty on z/OS Managing, Monitoring and Problem Determination"
 parent: "liberty"
-nav_order: 1
+nav_order: 3
 ---
 
 # WebSphere Liberty on z/OS Managing, Monitoring and Problem Determination
