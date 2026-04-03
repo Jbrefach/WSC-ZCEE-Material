@@ -26,6 +26,7 @@ nav_order: 3
 </a>
 
 <div class="doc-meta">
-  <strong>Lab Version Date:</strong> March 2026
+  <strong>Workshop Version Date:</strong> March 2026
 </div>
+
 
