@@ -8,8 +8,8 @@ nav_order: 1
 
 <iframe
   src="../../pdfs/workshops/Liberty/WebSphere Liberty on zOS Configuration Management Best Practices.pdf"
-  width="100%"
-  height="600px"
+  width="125%"
+  height="700px"
   style="border:1px solid #ccc">
 </iframe>
 
