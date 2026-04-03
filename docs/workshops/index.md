@@ -4,4 +4,4 @@ nav_order: 3
 ---
 
 # Workshops
-ZCEE and Liberty workshop folders contain PDFs of our Wildfire Workshop Presentations
+The workshop section contains PDFs of our Wildfire Workshops for both z/OS Connect and Liberty
