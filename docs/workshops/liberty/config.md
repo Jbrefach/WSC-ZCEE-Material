@@ -10,7 +10,7 @@ nav_order: 1
   src="../../pdfs/workshops/Liberty/WebSphere Liberty on zOS Configuration Management Best Practices.pdf"
   width="125%"
   height="700px"
-  style="border:1px solid #ccc">
+  style="border:3px solid #ccc">
 </iframe>
 
 <a href="../../pdfs/workshops/Liberty/WebSphere Liberty on zOS Configuration Management Best Practices.pdf"
