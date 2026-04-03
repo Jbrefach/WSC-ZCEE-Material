@@ -21,7 +21,7 @@ This page contains z/OS Connect OpenAPI 2 specific hands-on labs for the API Req
   Hands-on labs covering inbound REST API creation for IMS  
   [View lab details →](Requester/MVS)
 
-### OpenAPI 2 Important Lab information PDF
+### **OpenAPI 2 Important Lab information PDF**
 The "Important-Read Me" PDF contains general lab information, keyboard configuration help, and more
 
 <iframe
