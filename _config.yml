@@ -47,8 +47,19 @@ nav:
     children:
       - name: "Liberty Workshops"
         link: "/workshops/liberty"
+        children:
+        - name: "Configuration"
+          link: "/workshops/liberty/config"
+        - name: "Security"
+          link: "/workshops/liberty/security"
+        - name: "Problem Determination"
+          link: "/workshops/liberty/monitor"
       - name: "z/OS Connect Workshops"
         link: "/workshops/zosconnect"
+        - name: "API Provider (Inbound)"
+          link: "/workshops/liberty/provider"
+        - name: "API Requester (Outbound)"
+          link: "/workshops/liberty/requester"
 
   - name: "ZCEE Container Material"
     link: "/zcee-container"
