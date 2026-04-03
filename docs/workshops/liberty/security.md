@@ -1,7 +1,7 @@
 ---
 title: "WebSphere Liberty on z/OS Introduction to Liberty Security"
 parent: "liberty"
-nav_order: 1
+nav_order: 2
 ---
 
 # WebSphere Liberty on z/OS Introduction to Liberty Security
