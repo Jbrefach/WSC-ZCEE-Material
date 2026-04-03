@@ -22,11 +22,11 @@ Example JCL members used for automation, testing, and integration with z/OS Conn
 
 | File Name | Preview | Download |
 |----------|--------|----------|
-| APIDEPLY | 🔍 [Preview](pdfs/jcl-samples/APIDEPLY.txt){:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/APIDEPLY.txt){:download} |
-| AUTHGRPS | 🔍 [Preview](pdfs/jcl-samples/AUTHGRPS.txt){:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/AUTHGRPS.txt){:download} |
-| AVZCICSD | 🔍 [Preview](pdfs/jcl-samples/AVZCICSD.txt){:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/AVZCICSD.txt){:download} |
-| BAQSMPF  | 🔍 [Preview](pdfs/jcl-samples/BAQSMPF.txt) {:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/BAQSMPF.txt){:download}  |
-| APIDEPLY | 🔍 [Preview](pdfs/jcl-samples/APIDEPLY.txt){:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/APIDEPLY.txt){:download} |
-| AUTHGRPS | 🔍 [Preview](pdfs/jcl-samples/AUTHGRPS.txt){:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/AUTHGRPS.txt){:download} |
-| AVZCICSD | 🔍 [Preview](pdfs/jcl-samples/AVZCICSD.txt){:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/AVZCICSD.txt){:download} |
-| BAQSMPF  | 🔍 [Preview](pdfs/jcl-samples/BAQSMPF.txt) {:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/BAQSMPF.txt){:download}  |
+| APIDEPLY | 🔍 [Preview](pdfs/jcl-samples/APIDEPLY.txt) {:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/APIDEPLY.txt) {:download} |
+| AUTHGRPS | 🔍 [Preview](pdfs/jcl-samples/AUTHGRPS.txt) {:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/AUTHGRPS.txt) {:download} |
+| AVZCICSD | 🔍 [Preview](pdfs/jcl-samples/AVZCICSD.txt) {:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/AVZCICSD.txt) {:download} |
+| BAQSMPF  | 🔍 [Preview](pdfs/jcl-samples/BAQSMPF.txt) {:target="_blank"}  | ⬇️[Download](pdfs/jcl-samples/BAQSMPF.txt) {:download}  |
+| APIDEPLY | 🔍 [Preview](pdfs/jcl-samples/APIDEPLY.txt) {:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/APIDEPLY.txt) {:download} |
+| AUTHGRPS | 🔍 [Preview](pdfs/jcl-samples/AUTHGRPS.txt) {:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/AUTHGRPS.txt) {:download} |
+| AVZCICSD | 🔍 [Preview](pdfs/jcl-samples/AVZCICSD.txt) {:target="_blank"} | ⬇️[Download](pdfs/jcl-samples/AVZCICSD.txt) {:download} |
+| BAQSMPF  | 🔍 [Preview](pdfs/jcl-samples/BAQSMPF.txt) {:target="_blank"}  | ⬇️[Download](pdfs/jcl-samples/BAQSMPF.txt) {:download}  |
