@@ -5,8 +5,9 @@ parent: "Workshops"
 
 # Liberty Workshops <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/3cbd00cf-7b81-4416-bfd2-fe7f53f83805"/>
 
+There are 3 available Liberty workshops with topics about Configuration & Management best practices, Liberty security, Managing, Monitoring, & Problem determination within your Liberty environment. 
 
-Workshops focused on Liberty runtime, configuration, deployment, and operational integration with ZCEE.
+You can request these workshop presentations or ask any questions about the material by reaching out to our team using the **Contact** section on the homepage.
 
 ## Available Workshops
 
