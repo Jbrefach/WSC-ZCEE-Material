@@ -22,7 +22,7 @@ Example JCL members used for automation, testing, and integration with z/OS Conn
 
 | File Name | Preview | Download |
 |----------|--------|----------|
-| APIDEPLY | 🔍 [Preview](pdfs/jcl-samples/APIDEPLY.txt){:target="_blank"} | <a href="pdfs/jcl-samples/APIDEPLY.txt" download> ⬇️ Download txt file</a>|
+| APIDEPLY | 🔍 [Preview txt file](pdfs/jcl-samples/APIDEPLY.txt){:target="_blank"} | <a href="pdfs/jcl-samples/APIDEPLY.txt" download> ⬇️ Download txt file</a>|
 | AUTHGRPS | 🔍 [Preview](pdfs/jcl-samples/AUTHGRPS.txt){:target="_blank"} | <a href="pdfs/jcl-samples/AUTHGRPS.txt" download> ⬇️ Download txt file</a>
 | AVZCICSD | 🔍 [Preview](pdfs/jcl-samples/AVZCICSD.txt){:target="_blank"} | <a href="pdfs/jcl-samples/AVZCICSD.txt" download> ⬇️ Download txt file</a>
 | BAQSMPF | 🔍 [Preview](pdfs/jcl-samples/BAQSMPF.txt){:target="_blank"} | <a href="pdfs/jcl-samples/BAQSMPF.txt" download> ⬇️ Download txt file</a>
