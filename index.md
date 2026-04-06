@@ -18,8 +18,8 @@ Material will be updated regularly and new assests will be added as the software
 ---
 
 ## 📚 Available Sections
-
-### **1. Case Studies & Educational Material**
+###
+#### **1. Case Studies & Educational Material**
 Case Studies & Educational Material folder contains best practices, configuration help, and educational packages to help understand certain topics
 
 ---
