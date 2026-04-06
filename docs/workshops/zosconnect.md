@@ -2,6 +2,7 @@
 title: "z/OS Connect Workshops"
 parent: "Workshops"
 ---
+<a href="./" class="ibm-btn ibm-btn-secondary"> ← Back to Workshops</a>
 
 # z/OS Connect Workshops <img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" /> <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/92e2193b-f1a2-4aa2-8794-3b90a8854220" />
 
