@@ -3,6 +3,7 @@ title: "Accessing zOS resources with REST APIs using IBM zOS Connect"
 parent: "zcee"
 nav_order: 1
 ---
+<a href="../zosconnect" class="ibm-btn ibm-btn-secondary"> ← Back to z/OS Connect Workshops </a>
 
 # Accessing zOS resources with REST APIs using IBM zOS Connect
 
