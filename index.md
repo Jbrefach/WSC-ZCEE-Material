@@ -31,37 +31,37 @@ The Labs folder provides guided tehcnical enablement for hands‑on labs exercis
 
 #### **Subsections**
 - [**API Requester Labs**](docs/labs/api-requester)
-- **OpenAPI 2 Labs**  
-- **OpenAPI 3 Labs**
+- [**OpenAPI 2 Labs**](docs/labs/openapi2)  
+- [**OpenAPI 3 Labs**](docs/labs/openapi3)
 
 ---
 
-### **3. Workshops**
+### [**3. Workshops**](docs/workshops)
 ZCEE and Liberty workshop folders contain PDFs of our Wildfire Workshop Presentations
 
 #### **Subsections**
-- **Liberty Workshops**  
-- **z/OS Connect Workshops**
+- [**Liberty Workshops**](docs/workshops/liberty)  
+- [**z/OS Connect Workshops**](docs/workshops/zosconnect)
 
 ---
 
-### **4. ZCEE Container Material**
+### [**4. ZCEE Container Material**](docs/zcee-container)
 ZCEE Container Material contains labs and educational material for z/OS Connect Container configuration
 
 ---
 
-### **5. CNTL Samples**
+### [**5. CNTL Samples**](docs/cntl-samples)
 Sample datasets and CNTL assets for education and demonstrations. CNTL folder provides samples of control statements, JCL, configuration parameters, and more
 
 
 ---
 
-### **6. JCL Samples**
+### [**6. JCL Samples**](docs/jcl-samples)
 Useful JCL examples to support workshop and lab execution. JCL folder provides JCL Samples
 
 ---
 
-### **7. ZCEE Topics Guide**
+### [**7. ZCEE Topics Guide**](docs/topics-guide)
 z/OS Connect Topics guide has a wide variety of topics, best practices, configuration support, and more pertaining to z/OS Connect
 
 
