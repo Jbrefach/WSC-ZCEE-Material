@@ -46,7 +46,7 @@ ZCEE and Liberty workshop folders contain PDFs of our Wildfire Workshop Presenta
 ---
 
 ### [**4. ZCEE Container Material**](docs/zcee-container)
-ZCEE Container Material contains labs and educational material for z/OS Connect Container configuration
+ZCEE Container Material contains 2 ZCEE container-based labs (CICS & Db2) and an educational workshop presentation for z/OS Connect Container configuration
 
 ---
 
