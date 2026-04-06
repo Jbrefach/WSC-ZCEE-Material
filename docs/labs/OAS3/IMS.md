@@ -3,6 +3,7 @@ title: "IMS OpenAPI 3 Lab (4 Parts)"
 parent: "OpenAPI3"
 nav_order: 1
 ---
+<a href="../openapi3" class="ibm-btn ibm-btn-secondary"> ← Back to OpenAPI 3 Provider Labs</a>
 
 ## OpenAPI 3 – IMS Lab Part 1: GET (HTTP Method)
 
