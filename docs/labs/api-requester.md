@@ -3,7 +3,7 @@ title: "API Requester Labs"
 parent: "Labs"
 ---
 
-../
+./
   ← Back to Labs
 </a>
 
