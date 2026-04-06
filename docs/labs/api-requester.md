@@ -5,7 +5,6 @@ parent: "Labs"
 
 <a href="./" class="ibm-btn ibm-btn-secondary"> ← Back to Labs</a>
 
-
 # API Requester Labs <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" />
 
 This page contains z/OS Connect OpenAPI 2 specific hands-on labs for the API Requester features (outbound).
