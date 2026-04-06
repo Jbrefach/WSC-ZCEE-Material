@@ -1,7 +1,7 @@
 ---
 title: "Accessing REST APIs from zOS using IBM zOS Connect"
 parent: "zcee"
-nav_order: 1
+nav_order: 2
 ---
 
 # Accessing REST APIs from zOS using IBM zOS Connect
