@@ -3,6 +3,7 @@ title: "Developing RESTful APIs for MQ"
 parent: "OpenAPI2"
 nav_order: 1
 ---
+<a href="../openapi2" class="ibm-btn ibm-btn-secondary"> ← Back to OpenAPI 2 Provider Labs</a>
 
 ## OpenAPI 2 – Developing RESTful APIs for MQ
 
