@@ -1,6 +1,6 @@
 ---
 title: "Developing RESTful APIs for a CICS Channel or COMMAREA Program"
-parent: "labs"
+parent: "OpenAPI2"
 nav_order: 1
 ---
 
