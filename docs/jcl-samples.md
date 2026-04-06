@@ -7,9 +7,9 @@ nav_order: 6
 
 This page contains reusable JCL examples used across WSC z/OS Connect labs, workshops, and demonstrations. 
 
-Use **Preview** to view the file contents directly in your browser, or **Download** to save a local copy.
-
 Example JCL members used for automation, testing, and integration with z/OS Connect.
+
+Use **Preview** to view the file contents directly in your browser, or **Download** to save a local copy.
 
 
 ## Available JCL Samples
