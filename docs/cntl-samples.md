@@ -2,6 +2,7 @@
 title: "CNTL Samples"
 nav_order: 5
 ---
+<a href="../" class="ibm-btn ibm-btn-secondary"> ← Back to Home </a> 
 
 # CNTL Samples
 
