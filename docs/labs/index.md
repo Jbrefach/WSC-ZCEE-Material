@@ -2,6 +2,7 @@
 title: "Labs"
 nav_order: 2
 ---
+<a href="../" class="ibm-btn ibm-btn-secondary"> ← Back to Home </a> 
 
 # Labs
 
