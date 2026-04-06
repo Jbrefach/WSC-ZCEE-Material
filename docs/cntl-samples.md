@@ -5,10 +5,10 @@ nav_order: 5
 
 # CNTL Samples
 
-Sample CNTL assets supporting workshops, labs, and operational exercises
-Provides samples of control statements, JCL, configuration parameters, and more
-Use **Preview** to view the file contents directly in your browser, or **Download** to save a local copy
+Sample CNTL assets supporting workshops, labs, and operational exercises.   
+These provide samples of control statements, JCL, configuration parameters, and more.  
 
+Use **Preview** to view the file contents directly in your browser, or **Download** to save a local copy
 
 ## Available CNTL Coding Samples
 
