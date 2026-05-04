@@ -33,7 +33,7 @@ The Labs folder provides guided technical enablement for hands‑on labs exercis
 - [**API Requester Labs**](docs/labs/api-requester)
 - [**OpenAPI 2 Labs**](docs/labs/openapi2)  
 - [**OpenAPI 3 Labs**](docs/labs/openapi3)
-
+- [**Liberty Labs**](docs/labs/liberty)
 ---
 
 ### [**3. Workshops**](docs/workshops)
@@ -61,7 +61,12 @@ Useful JCL examples to support workshop and lab execution. JCL folder provides J
 
 ---
 
-### [**7. ZCEE Topics Guide**](docs/topics-guide)
+### [**7. XML Samples**](docs/xml-samples)
+Useful XML examples to support server configuration. XML folder provides XML Samples
+
+---
+
+### [**8. ZCEE Topics Guide**](docs/topics-guide)
 z/OS Connect Topics guide has a wide variety of topics, best practices, configuration support, and more pertaining to z/OS Connect
 
 
