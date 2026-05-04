@@ -31,9 +31,10 @@ The Labs folder provides guided technical enablement for hands‑on labs exercis
 
 #### **Subsections**
 - [**API Requester Labs**](docs/labs/api-requester)
-- [**OpenAPI 2 Labs**](docs/labs/openapi2)  
+- [**OpenAPI 2 Labs**](docs/labs/openapi2)
 - [**OpenAPI 3 Labs**](docs/labs/openapi3)
 - [**Liberty Labs**](docs/labs/liberty)
+
 ---
 
 ### [**3. Workshops**](docs/workshops)
@@ -52,7 +53,6 @@ ZCEE Container Material contains 2 ZCEE container-based labs (CICS & Db2) and an
 
 ### [**5. CNTL Samples**](docs/cntl-samples)
 Sample datasets and CNTL assets for education and demonstrations. CNTL folder provides samples of control statements, JCL, configuration parameters, and more
-
 
 ---
 
