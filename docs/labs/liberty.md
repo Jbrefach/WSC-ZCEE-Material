@@ -5,7 +5,7 @@ parent: "Labs"
 
 <a href="./" class="ibm-btn ibm-btn-secondary"> ← Back to Labs</a>
 
-# Liberty Labs <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" />
+# Liberty Labs <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/3cbd00cf-7b81-4416-bfd2-fe7f53f83805"/>
 
 This page contains Liberty hands-on labs for Security configuration features.
 
