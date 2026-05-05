@@ -23,7 +23,7 @@ This page contains Liberty Security configuration hands-on labs for z/OS Connect
   Hands-on labs covering Third party authentication with JWTs for a z/OS Connect Liberty server   
   [View lab details →](liberty/JWT)
 
-### **OpenAPI 2 Important Lab information PDF**
+### **Important Lab information PDF**
 The "Important-Read Me" PDF contains general lab information, keyboard configuration help, and more
 
 <iframe
