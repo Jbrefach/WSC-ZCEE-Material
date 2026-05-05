@@ -7,21 +7,21 @@ parent: "Labs"
 
 # Liberty Labs <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/3cbd00cf-7b81-4416-bfd2-fe7f53f83805"/>
 
-This page contains Liberty hands-on labs for Security configuration features.
+This page contains Liberty Security configuration hands-on labs for z/OS Connect Liberty servers.
 
 ## Available Labs
 
-- **Liberty – Developing CICS API Requester Applications**  
-  Hands-on lab covering inbound REST API creation for CICS Programs (Channel or COMMAREA)   
-  [View lab details →](Requester/CICS)
+- **Liberty – Basic Configuration**  
+  Hands-on lab covering Basic Security configuration for a z/OS Connect Liberty server
+  [View lab details →](liberty/Config)
 
-- **Liberty – Developing IMS API Requester Applications**  
-  Hands-on lab covering inbound REST API creation for DB2 REST Services  
-  [View lab details →](Requester/IMS)
+- **Liberty – SAF Security**  
+  Hands-on lab covering SAF Security configuration for a z/OS Connect Liberty server  
+  [View lab details →](Requester/SAF)
 
-- **Liberty – Developing MVS Batch API Requester Applications**  
-  Hands-on labs covering inbound REST API creation for IMS  
-  [View lab details →](Requester/MVS)
+- **Liberty – Security and JWT Tokens**  
+  Hands-on labs covering Third party authentication with JWTs for a z/OS Connect Liberty server
+  [View lab details →](Requester/JWT)
 
 ### **OpenAPI 2 Important Lab information PDF**
 The "Important-Read Me" PDF contains general lab information, keyboard configuration help, and more
