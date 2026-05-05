@@ -16,7 +16,7 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 
 | File Name | 🔍 Preview | Download ⬇️ |
 |----------|--------|----------|
-| adminCenter | 🔍[Preview file](pdfs/xml-samples/adminCenter.xml){:target="_blank"} | <a href="pdfs/xml-samples/adminCenter.xml" download> Download xml file ⬇️ </a>|
+| adminCenter | 🔍[Preview file](pdfs/xml-samples/adminCenter.xml){:target="_blank"} | <a href="pdfs/xml-samples/adminCenter.xml" download> Download XML file ⬇️ </a>|
 | apiRequester | 🔍[Preview file](pdfs/xml-samples/apiRequester.xml){:target="_blank"} | <a href="pdfs/xml-samples/apiRequester.xml" download> Download XML file ⬇️ </a>|
 | apiRequesterHTTPS | 🔍[Preview file](pdfs/xml-samples/apiRequesterHTTPS.xml){:target="_blank"} | <a href="pdfs/xml-samples/apiRequesterHTTPS.xml" download> Download XML file ⬇️ </a>|
 | apiRequesterTrace | 🔍[Preview file](pdfs/xml-samples/apiRequesterTrace.xml){:target="_blank"} | <a href="pdfs/xml-samples/apiRequesterTrace.xml" download> Download XML file ⬇️ </a>|
