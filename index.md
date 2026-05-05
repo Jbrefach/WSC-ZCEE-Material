@@ -21,7 +21,7 @@ Material will be updated regularly and new assests will be added as the software
 
 ### [**1. Case Studies & Educational Material**](docs/case-studies)
 
-Case Studies & Educational Material folder contains best practices, configuration help, and educational packages to help understand certain topics
+Case Studies & Educational Material folder contains best practices, configuration help, and educational packages to help understand certain topics based on the WSC own experiences.
 
 ---
 
@@ -47,28 +47,27 @@ ZCEE and Liberty workshop folders contain PDFs of our Wildfire Workshop Presenta
 ---
 
 ### [**4. ZCEE Container Material**](docs/zcee-container)
-ZCEE Container Material contains 2 ZCEE container-based labs (CICS & Db2) and an educational workshop presentation for z/OS Connect Container configuration
+ZCEE Container Material contains 2 ZCEE container-based labs (CICS & Db2) and an educational workshop presentation for z/OS Connect Container configuration.
 
 ---
 
 ### [**5. CNTL Samples**](docs/cntl-samples)
-Sample datasets and CNTL assets for education and demonstrations. CNTL folder provides samples of control statements, JCL, configuration parameters, and more
+Sample datasets and CNTL assets for education and demonstrations. CNTL folder provides samples of control statements, JCL, configuration parameters, and more.
 
 ---
 
 ### [**6. JCL Samples**](docs/jcl-samples)
-Useful JCL examples to support workshop and lab execution. JCL folder provides JCL Samples
+The JCL Samples folder provides useful JCL examples to support workshop and lab execution.
 
 ---
 
 ### [**7. XML Samples**](docs/xml-samples)
-Useful XML examples to support server configuration. XML folder provides XML Samples
+The XML Samples Folder provides useful XML examples to support server configuration.
 
 ---
 
 ### [**8. ZCEE Topics Guide**](docs/topics-guide)
 z/OS Connect Topics guide has a wide variety of topics, best practices, configuration support, and more pertaining to z/OS Connect
-
 
 ---
 
