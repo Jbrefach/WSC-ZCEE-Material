@@ -17,11 +17,11 @@ This page contains Liberty Security configuration hands-on labs for z/OS Connect
 
 - **Liberty – SAF Security**  
   Hands-on lab covering SAF Security configuration for a z/OS Connect Liberty server  
-  [View lab details →](Requester/SAF)
+  [View lab details →](liberty/SAF)
 
 - **Liberty – Security and JWT Tokens**  
   Hands-on labs covering Third party authentication with JWTs for a z/OS Connect Liberty server   
-  [View lab details →](Requester/JWT)
+  [View lab details →](liberty/JWT)
 
 ### **OpenAPI 2 Important Lab information PDF**
 The "Important-Read Me" PDF contains general lab information, keyboard configuration help, and more
