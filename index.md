@@ -31,9 +31,9 @@ The Labs folder provides guided technical enablement for hands‑on labs exercis
 
 #### **Subsections**
 - [**API Requester Labs**](docs/labs/api-requester)
+- [**Liberty Labs**](docs/labs/liberty)
 - [**OpenAPI 2 Labs**](docs/labs/openapi2)
 - [**OpenAPI 3 Labs**](docs/labs/openapi3)
-- [**Liberty Labs**](docs/labs/liberty)
 
 ---
 
