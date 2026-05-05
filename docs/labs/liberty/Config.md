@@ -8,19 +8,19 @@ nav_order: 1
 ## Liberty on z/OS – Basic Configuration
 
 <iframe
-  src="../../pdfs/labs/liberty/Liberty on zOS -  Basic Configuration.pdf"
+  src="../../pdfs/labs/liberty/Liberty on zOS - Basic Configuration.pdf"
   width="100%"
   height="600px"
   style="border:1px solid #ccc">
 </iframe>
 
-<a href="../../pdfs/labs/liberty/Liberty on zOS -  Basic Configuration.pdf"
+<a href="../../pdfs/labs/liberty/Liberty on zOS - Basic Configuration.pdf"
    target="_blank"
    class="ibm-btn ibm-btn-secondary">
   Full Screen Preview PDF
 </a>
 
-<a href="../../pdfs/labs/liberty/Liberty on zOS -  Basic Configuration.pdf"
+<a href="../../pdfs/labs/liberty/Liberty on zOS - Basic Configuration.pdf"
    download
    class="ibm-btn ibm-btn-primary">
   Download Liberty on zOS - Basic Configuration Lab PDF
