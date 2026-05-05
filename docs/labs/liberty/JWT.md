@@ -8,19 +8,19 @@ nav_order: 1
 ## Liberty on z/OS – Security and JWT Tokens
 
 <iframe
-  src="../../pdfs/labs/liberty/Liberty on zOS -  Security and JWT Tokens.pdf"
+  src="../../pdfs/labs/liberty/Liberty on zOS - Security and JWT Tokens.pdf"
   width="100%"
   height="600px"
   style="border:1px solid #ccc">
 </iframe>
 
-<a href="../../pdfs/labs/liberty/Liberty on zOS -  Security and JWT Tokens.pdf"
+<a href="../../pdfs/labs/liberty/Liberty on zOS - Security and JWT Tokens.pdf"
    target="_blank"
    class="ibm-btn ibm-btn-secondary">
   Full Screen Preview PDF
 </a>
 
-<a href="../../pdfs/labs/liberty/Liberty on zOS -  Security and JWT Tokens.pdf"
+<a href="../../pdfs/labs/liberty/Liberty on zOS - Security and JWT Tokens.pdf"
    download
    class="ibm-btn ibm-btn-primary">
   Download Liberty on zOS - Security and JWT Tokens Lab PDF
