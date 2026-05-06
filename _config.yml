@@ -71,3 +71,7 @@ nav:
   - name: "ZCEE Topics Guide"
     link: "/topics-guide"
     nav_order: 8
+    
+  - name: "COBOL samples"
+    link: "/cobol-samples"
+    nav_order: 9
