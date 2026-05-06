@@ -21,12 +21,12 @@ Material will be updated regularly and new assests will be added as the software
 
 ### [**1. Case Studies & Educational Material**](docs/case-studies)
 
-Case Studies & Educational Material folder contains best practices, configuration help, and educational packages to help understand certain topics based on the WSC own experiences.
+Case Studies & Educational Material page contains best practices, configuration help, and educational packages to help understand certain topics based on the WSC own experiences.
 
 ---
 
 ### [**2. Labs**](docs/labs)
-The Labs folder provides guided technical enablement for hands‑on labs exercises. There are API Requester, OpenAPI 2 (API Provider), OpenAPI 3 (API Provider) and Liberty lab exercises for z/OS Connect found in their corresponding folders. 
+The Labs pages provide guided technical enablement for hands‑on labs exercises. There are API Requester, OpenAPI 2 (API Provider), OpenAPI 3 (API Provider) and Liberty lab exercises for z/OS Connect found in their corresponding sections. 
 
 
 #### **Subsections**
@@ -38,7 +38,7 @@ The Labs folder provides guided technical enablement for hands‑on labs exercis
 ---
 
 ### [**3. Workshops**](docs/workshops)
-ZCEE and Liberty workshop folders contain PDFs of our Wildfire Workshop Presentations
+ZCEE and Liberty workshop pages contain PDFs of our Wildfire Workshop Presentations.
 
 #### **Subsections**
 - [**Liberty Workshops**](docs/workshops/liberty)  
@@ -47,27 +47,32 @@ ZCEE and Liberty workshop folders contain PDFs of our Wildfire Workshop Presenta
 ---
 
 ### [**4. ZCEE Container Material**](docs/zcee-container)
-ZCEE Container Material contains 2 ZCEE container-based labs (CICS & Db2) and an educational workshop presentation for z/OS Connect Container configuration.
+ZCEE Container Material page contains 2 ZCEE container-based labs (CICS & Db2) and an educational workshop presentation for z/OS Connect Container configuration.
 
 ---
 
 ### [**5. CNTL Samples**](docs/cntl-samples)
-Sample datasets and CNTL assets for education and demonstrations. CNTL folder provides samples of control statements, JCL, configuration parameters, and more.
+Sample datasets and CNTL assets for education and demonstrations. CNTL page provides samples of control statements, JCL, configuration parameters, and more.
 
 ---
 
 ### [**6. JCL Samples**](docs/jcl-samples)
-The JCL Samples folder provides useful JCL examples to support workshop and lab execution.
+The JCL Samples page provides useful JCL examples to support workshop and lab execution.
 
 ---
 
 ### [**7. XML Samples**](docs/xml-samples)
-The XML Samples Folder provides useful XML examples to support server configuration.
+The XML Samples page provides useful XML examples to support server configuration.
 
 ---
 
 ### [**8. ZCEE Topics Guide**](docs/topics-guide)
 z/OS Connect Topics guide has a wide variety of topics, best practices, configuration support, and more pertaining to z/OS Connect
+
+---
+
+### [**9. COBOL Samples**](docs/cobol-samples)
+The COBOL samples page provides COBOL coding examples that can be used for a variety of use cases.
 
 ---
 
