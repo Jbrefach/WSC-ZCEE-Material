@@ -14,4 +14,4 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 
 | File Name | Description | 🔍 Preview | Download ⬇️ |
 |----------|----------|--------|----------|
-| ATSPTKTC | Generate a passticket on z/OS using RACF service | 🔍[Preview file](pdfs/cobol-samples/txt-copys/ATSPTKTC.txt){:target="_blank"} | <a href="pdfs/cobol-samples/ATSPTKTC.cbl" download> Download sample ⬇️ </a>|
+| ATSPTKTC | Generate a passticket on z/OS using RACF service | 🔍 [Preview txt file](pdfs/cobol-samples/txt-copys/ATSPTKTC.txt){:target="_blank"} | <a href="pdfs/cobol-samples/ATSPTKTC.cbl" download> Download .cbl sample ⬇️ </a>|
