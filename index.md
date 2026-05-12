@@ -3,9 +3,9 @@ title: "WSC z/OS Connect & Liberty Workshop Material"
 layout: default
 nav_order: 0
 ---
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/92e2193b-f1a2-4aa2-8794-3b90a8854220" /> 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" />
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3cbd00cf-7b81-4416-bfd2-fe7f53f83805"/>
+<img width="175" height="175" alt="image" src="https://github.com/user-attachments/assets/92e2193b-f1a2-4aa2-8794-3b90a8854220" /> 
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/177ec141-2547-4d88-b0d8-ac15dad81369" />
+<img width="175" height="175" alt="image" src="https://github.com/user-attachments/assets/3cbd00cf-7b81-4416-bfd2-fe7f53f83805"/>
 
 # WSC z/OS Connect & Liberty Workshop Material
 ### **WSC ZCEE & Liberty Education Portal**
