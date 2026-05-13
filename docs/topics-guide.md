@@ -31,7 +31,7 @@ z/OS Connect Topics guide has a wide variety of topics, best practices, configur
   <strong>Last updated:</strong> Sept 3, 2025
 </div>
 
-### [Archived ZCEE Topics Guides](archive-topics-guide)
+### [Archived ZCEE Topics Guides](../archive-topics-guide)
 
 This link will direct you to our **Archived** *Getting Started* and *Advanced Topics* guides. These guides have sections of educational material and tips/tricks that may still be relevant but they also contain some outdated material as they have not been updated in a number of years. 
 Please reach out to our team with any clarifying questions. 
