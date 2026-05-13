@@ -1,6 +1,6 @@
 <a href="../topics-guide.md" class="ibm-btn ibm-btn-secondary"> ← Back to Topics Guide Page </a> 
 
-### These guides have sections of educational material and tips/tricks that may still be relevant but they also contain some outdated material as they have not been updated in a number of years.
+### **Disclaimer:** These guides have sections of educational material and tips/tricks that may still be relevant but they also contain some outdated material as they have not been updated in a number of years.
 ### Please reach out to our team with any clarifying questions.
 
 ## Getting Started ZCEE Topics Guide (Archived)
@@ -10,7 +10,7 @@ Getting Started z/OS Connect Topics Guide has a wide variety of beginners topics
 <iframe
   src="pdfs/topics-guide/zOS Connect EE V3 Getting Started.pdf" 
   width="100%"
-  height="400px"
+  height="600px"
   style="border:1px solid #ccc">
 </iframe>
 
@@ -37,7 +37,7 @@ z/OS Connect Advanced Topics Guide has a wide variety of advanced configuration,
 <iframe
   src="pdfs/topics-guide/zOS Connect EE V3 Advanced Topics Guide.pdf"
   width="100%"
-  height="400px"
+  height="600px"
   style="border:1px solid #ccc">
 </iframe>
 
