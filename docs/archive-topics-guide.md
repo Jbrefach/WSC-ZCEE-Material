@@ -1,6 +1,6 @@
 <a href="../docs/topics-guide" class="ibm-btn ibm-btn-secondary"> ← Back to Topics Guide Page </a> 
 
-#### **Disclaimer:** These guides have sections of educational material and tips/tricks that may still be relevant but they also contain some outdated material as they have not been updated in a number of years.
+#### **Disclaimer:** These guides have sections of educational material and tips/tricks that may still be relevant but they also contain outdated material as they have not been updated in a number of years.
 #### Please reach out to our team with any clarifying questions.
 
 ## Getting Started ZCEE Topics Guide (Archived)
