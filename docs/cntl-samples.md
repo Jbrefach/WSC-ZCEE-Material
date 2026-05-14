@@ -20,7 +20,7 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | AVZCICSD | 🔍[Preview file](pdfs/cntl-samples/AVZCICSD.txt){:target="_blank"} | <a href="pdfspdfs/cntl-samples/AVZCICSD.txt" download> Download txt file ⬇️ </a>
 | BAQSMPF | 🔍[Preview file](pdfs/cntl-samples/BAQSMPF.txt){:target="_blank"} | <a href="pdfs/cntl-samples/BAQSMPF.txt" download> Download txt file ⬇️ </a>|
 | BBGPTKT | 🔍[Preview file](pdfs/cntl-samples/BAQSMPF.txt){:target="_blank"} | <a href="pdfspdfs/cntl-samples/BAQSMPF.txt" download> Download txt file ⬇️ </a>
-| CCEROPT | 🔍[Preview file](pdfs/cntl-samples/CEEROPT.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CEEROPT.txt" download> Download txt file ⬇️ </a>
+| CEEROPT | 🔍[Preview file](pdfs/cntl-samples/CEEROPT.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CEEROPT.txt" download> Download txt file ⬇️ </a>
 | CHKJAVA | 🔍[Preview file](pdfs/cntl-samples/CHKJAVA.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CHKJAVA.txt" download> Download txt file ⬇️ </a>
 | CICSRCF1 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF1.txt" download> Download txt file ⬇️ </a>
 | CICSRCF2 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF2.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF2.txt" download> Download txt file ⬇️ </a>
@@ -70,3 +70,4 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | ZCJWTR2A | 🔍[Preview file](pdfs/cntl-samples/ZCJWTR2A.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZCJWTR2A.txt" download> Download txt file ⬇️ </a>
 | ZCJWTR3A | 🔍[Preview file](pdfs/cntl-samples/ZCJWTR3A.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZCJWTR3A.txt" download> Download txt file ⬇️ </a>
 | ZCSETUP | 🔍[Preview file](pdfs/cntl-samples/ZCSETUP.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZCSETUP.txt" download> Download txt file ⬇️ </a>
+| ZDB2RST1 | 🔍[Preview file](pdfs/cntl-samples/ZDB2RST1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZDB2RST1.txt" download> Download txt file ⬇️ </a>
