@@ -54,7 +54,7 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | IMSCOPY | 🔍[Preview file](pdfs/cntl-samples/IMSCOPY.txt){:target="_blank"} | <a href="pdfs/cntl-samples/IMSCOPY.txt" download> Download txt file ⬇️ </a>|
 | IMSPTKT | 🔍[Preview file](pdfs/cntl-samples/IMSPTKT.txt){:target="_blank"} | <a href="pdfs/cntl-samples/IMSPTKT.txt" download> Download txt file ⬇️ </a>|
 | IMSTLS | 🔍[Preview file](pdfs/cntl-samples/IMSTLS.txt){:target="_blank"} | <a href="pdfs/cntl-samples/IMSTLS.txt" download> Download txt file ⬇️ </a>|
-| JWTREMOV | 🔍[Preview file](pdfs/cntl-samples/JWTREMOV.txt){:target="_blank"} | <a href="pdfs/cntl-samples/JWTREMOV.txt" download> Download txt file ⬇️ </a>|
+| JTWREMOV | 🔍[Preview file](pdfs/cntl-samples/JTWREMOV.txt){:target="_blank"} | <a href="pdfs/cntl-samples/JTWREMOV.txt" download> Download txt file ⬇️ </a>| docs/
 | JWTDIGTR | 🔍[Preview file](pdfs/cntl-samples/JWTDIGTR.txt){:target="_blank"} | <a href="pdfs/cntl-samples/JWTDIGTR.txt" download> Download txt file ⬇️ </a>|
 | JWTMACMP | 🔍[Preview file](pdfs/cntl-samples/JWTMACMP.txt){:target="_blank"} | <a href="pdfs/cntl-samples/JWTMACMP.txt" download> Download txt file ⬇️ </a>|
 | LIBERTY | 🔍[Preview file](pdfs/cntl-samples/LIBERTY.txt){:target="_blank"} | <a href="pdfs/cntl-samples/LIBERTY.txt" download> Download txt file ⬇️ </a>|
