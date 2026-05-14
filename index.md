@@ -53,13 +53,13 @@ ZCEE Container Material page contains 2 ZCEE container-based labs (CICS & Db2) a
 
 ---
 
-### [**5. CNTL Samples**](docs/cntl-samples)
-Sample datasets and CNTL assets for education and demonstrations. CNTL page provides samples of control statements, JCL, configuration parameters, and more.
+### [**5. ZCEE30.CNTL Samples**](docs/cntl-samples)
+The ZCEE30.CNTL sample page provides sample datasets and CNTL assets that are contained in the z/OS Connect Control library. This page provides samples of control statements, JCL, configuration parameters, and more.
 
 ---
 
-### [**6. JCL Samples**](docs/jcl-samples)
-The JCL Samples page provides useful JCL examples to support workshop and lab execution.
+### [**6. Admin JCL Samples**](docs/jcl-samples)
+The Administrator JCL Samples page provides useful JCL coding examples for various administrative tasks related to z/OS Connect & Liberty.
 
 ---
 
