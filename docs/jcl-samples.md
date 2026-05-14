@@ -1,14 +1,14 @@
 ---
-title: "JCL Samples"
+title: "Admin JCL Jobs Samples"
 nav_order: 6
 ---
 <a href="../" class="ibm-btn ibm-btn-secondary"> ← Back to Home </a> 
 
-# JCL Coding Samples
+# Admin JCL Jobs Samples
 
-This page contains reusable JCL examples used across WSC z/OS Connect labs, workshops, and demonstrations. 
+This page contains reusable Administrator JCL examples used across WSC z/OS Connect labs, workshops, and demonstrations. 
 
-Example JCL members used for automation, testing, and integration with z/OS Connect.
+These example JCL jobs are used for automation, testing, and integration with z/OS Connect.
 
 Use **Preview** to view the file contents directly in your browser, or **Download** to save a local copy.
 
@@ -22,7 +22,7 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | AVZCICSD | 🔍[Preview file](pdfs/jcl-samples/AVZCICSD.txt){:target="_blank"} | <a href="pdfs/jcl-samples/AVZCICSD.txt" download> Download txt file ⬇️ </a>
 | BAQSMPF | 🔍[Preview file](pdfs/jcl-samples/BAQSMPF.txt){:target="_blank"} | <a href="pdfs/jcl-samples/BAQSMPF.txt" download> Download txt file ⬇️ </a>
 | BBGPTKT | 🔍[Preview file](pdfs/jcl-samples/BBGPTKT.txt){:target="_blank"} | <a href="pdfs/jcl-samples/BBGPTKT.txt" download> Download txt file ⬇️ </a>
-| CCEROPT | 🔍[Preview file](pdfs/jcl-samples/CEEROPT.txt){:target="_blank"} | <a href="pdfs/jcl-samples/CEEROPT.txt" download> Download txt file ⬇️ </a>
+| CEEROPT | 🔍[Preview file](pdfs/jcl-samples/CEEROPT.txt){:target="_blank"} | <a href="pdfs/jcl-samples/CEEROPT.txt" download> Download txt file ⬇️ </a>
 | CHKJAVA | 🔍[Preview file](pdfs/jcl-samples/CHKJAVA.txt){:target="_blank"} | <a href="pdfs/jcl-samples/CHKJAVA.txt" download> Download txt file ⬇️ </a>
 | CICSTLS3 | 🔍[Preview file](pdfs/jcl-samples/CICSTLS3.txt){:target="_blank"} | <a href="pdfs/jcl-samples/CICSTLS3.txt" download> Download txt file ⬇️ </a>
 | CICSTLSA | 🔍[Preview file](pdfs/jcl-samples/CICSTLSA.txt){:target="_blank"} | <a href="pdfs/jcl-samples/CICSTLSA.txt" download> Download txt file ⬇️ </a>|
