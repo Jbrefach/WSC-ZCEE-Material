@@ -61,7 +61,7 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | MINCOPY | 🔍[Preview file](pdfs/cntl-samples/MINCOPY.txt){:target="_blank"} | <a href="pdfs/cntl-samples/MINCOPY.txt" download> Download txt file ⬇️ </a>|
 | MQTLS | 🔍[Preview file](pdfs/cntl-samples/MQTLS.txt){:target="_blank"} | <a href="pdfs/cntl-samples/MQTLS.txt" download> Download txt file ⬇️ </a>|
 | MQUTIL | 🔍[Preview file](pdfs/cntl-samples/MQUTIL.txt){:target="_blank"} | <a href="pdfs/cntl-samples/MQUTIL.txt" download> Download txt file ⬇️ </a>|
-| MQUTIL1 | 🔍[Preview file](pdfs/cntl-samples/MQUTIL1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/MQUTIL1.txt" download> Download txt file ⬇️ </a>|
+| MQUTL1 | 🔍[Preview file](pdfs/cntl-samples/MQUTL1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/MQUTL1.txt" download> Download txt file ⬇️ </a>|
 | MVSTLS | 🔍[Preview file](pdfs/cntl-samples/MVSTLS.txt){:target="_blank"} | <a href="pdfs/cntl-samples/MVSTLS.txt" download> Download txt file ⬇️ </a>|
 | MYSERVER | 🔍[Preview file](pdfs/cntl-samples/MYSERVER.txt){:target="_blank"} | <a href="pdfs/cntl-samples/MYSERVER.txt" download> Download txt file ⬇️ </a>|
 | OPENAPI3 | 🔍[Preview file](pdfs/cntl-samples/OPENAPI3.txt){:target="_blank"} | <a href="pdfs/cntl-samples/OPENAPI3.txt" download> Download txt file ⬇️ </a>|
