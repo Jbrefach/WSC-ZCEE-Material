@@ -1,12 +1,12 @@
 ---
-title: "CNTL Samples"
+title: "ZCEE30.CNTL Samples"
 nav_order: 5
 ---
 <a href="../" class="ibm-btn ibm-btn-secondary"> ← Back to Home </a> 
 
-# CNTL Samples
+# ZCEE30.CNTL Samples
 
-Sample CNTL assets supporting workshops, labs, and operational exercises.   
+Sample CNTL assets supporting workshops, labs, and operational exercises. These can be found in the ZCEE30.CNTL Library within ISPF.
 These provide samples of control statements, JCL, configuration parameters, and more.  
 
 Use **Preview** to view the file contents directly in your browser, or **Download** to save a local copy
@@ -16,7 +16,10 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | File Name | 🔍 Preview | Download ⬇️ |
 |----------|--------|----------|
 | APIDEPLY | 🔍[Preview file](pdfs/cntl-samples/APIDEPLY.txt){:target="_blank"} | <a href="pdfs/cntl-samples/APIDEPLY.txt" download> Download txt file ⬇️ </a>|
+| AUTHGRPS | 🔍[Preview file](pdfs/cntl-samples/AUTHGRPS.txt){:target="_blank"} | <a href="pdfs/cntl-samples/AUTHGRPS.txt" download> Download txt file ⬇️ </a>|
 | AVZCICSD | 🔍[Preview file](pdfs/cntl-samples/AVZCICSD.txt){:target="_blank"} | <a href="pdfspdfs/cntl-samples/AVZCICSD.txt" download> Download txt file ⬇️ </a>
+| BAQSMPF | 🔍[Preview file](pdfs/cntl-samples/BAQSMPF.txt){:target="_blank"} | <a href="pdfs/cntl-samples/BAQSMPF.txt" download> Download txt file ⬇️ </a>|
+| BBGPTKT | 🔍[Preview file](pdfs/cntl-samples/BAQSMPF.txt){:target="_blank"} | <a href="pdfspdfs/cntl-samples/BAQSMPF.txt" download> Download txt file ⬇️ </a>
 | CCEROPT | 🔍[Preview file](pdfs/cntl-samples/CEEROPT.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CEEROPT.txt" download> Download txt file ⬇️ </a>
 | CHKJAVA | 🔍[Preview file](pdfs/cntl-samples/CHKJAVA.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CHKJAVA.txt" download> Download txt file ⬇️ </a>
 | CICSRCF1 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF1.txt" download> Download txt file ⬇️ </a>
