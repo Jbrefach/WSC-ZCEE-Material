@@ -56,11 +56,11 @@ nav:
     link: "/zcee-container"
     nav_order: 4
 
-  - name: "CNTL Samples"
+  - name: "ZCEE30.CNTL Samples"
     link: "/cntl-samples"
     nav_order: 5
 
-  - name: "JCL Samples"
+  - name: "Admin JCL Samples"
     link: "/jcl-samples"
     nav_order: 6
 
