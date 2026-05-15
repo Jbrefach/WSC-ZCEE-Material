@@ -89,6 +89,8 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | ZDB2RST1 | 🔍[Preview file](pdfs/cntl-samples/ZDB2RST1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZDB2RST1.txt" download> Download txt file ⬇️ </a>|
 
 ## Additional CNTL Coding Samples
+| File Name | 🔍 Preview | Download ⬇️ |
+|----------|--------|----------|
 | CICSRCF1 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF1.txt" download> Download txt file ⬇️ </a>
 | CICSRCF2 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF2.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF2.txt" download> Download txt file ⬇️ </a>
 | CICSRCF3 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF3.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF3.txt" download> Download txt file ⬇️ </a>
