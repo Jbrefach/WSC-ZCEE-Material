@@ -6,11 +6,11 @@ nav_order: 5
 
 # ZCEE30.CNTL Samples
 
-This page provides samples of JCL members that can be found within the ZCEE30.CNTL Library within ISPF. These jobs can perform a variety of functions such as API Deployment, Security configuration, Java information, and more.
+This page provides samples of JCL members that can be found within the ZCEE30.CNTL Library. These jobs can perform a variety of functions such as API Deployment, Security configuration, Java information, and more.
 
 Use **Preview** to view the file contents directly in your browser, or **Download** to save a local copy
 
-## Available CNTL Coding Samples
+## Available ZCEE30.CNTL Coding Samples
 
 | File Name | 🔍 Preview | Download ⬇️ |
 |----------|--------|----------|
@@ -88,8 +88,7 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | ZCSETUP | 🔍[Preview file](pdfs/cntl-samples/ZCSETUP.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZCSETUP.txt" download> Download txt file ⬇️ </a>|
 | ZDB2RST1 | 🔍[Preview file](pdfs/cntl-samples/ZDB2RST1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZDB2RST1.txt" download> Download txt file ⬇️ </a>|
 
-<!-- 
-#Not included in the ZCEE30.CNTL Directory
+## Additional CNTL Coding Samples
 | CICSRCF1 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF1.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF1.txt" download> Download txt file ⬇️ </a>
 | CICSRCF2 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF2.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF2.txt" download> Download txt file ⬇️ </a>
 | CICSRCF3 | 🔍[Preview file](pdfs/cntl-samples/CICSRCF3.txt){:target="_blank"} | <a href="pdfs/cntl-samples/CICSRCF3.txt" download> Download txt file ⬇️ </a>
@@ -107,4 +106,3 @@ Use **Preview** to view the file contents directly in your browser, or **Downloa
 | ZCEERCF5 | 🔍[Preview file](pdfs/cntl-samples/ZCEERCF5.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZCEERCF5.txt" download> Download txt file ⬇️ </a>|
 | ZCEERCF6 | 🔍[Preview file](pdfs/cntl-samples/ZCEERCF6.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZCEERCF6.txt" download> Download txt file ⬇️ </a>|
 | ZCEERCF7 | 🔍[Preview file](pdfs/cntl-samples/ZCEERCF7.txt){:target="_blank"} | <a href="pdfs/cntl-samples/ZCEERCF7.txt" download> Download txt file ⬇️ </a>|
--->
