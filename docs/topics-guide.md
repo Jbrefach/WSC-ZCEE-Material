@@ -28,7 +28,7 @@ z/OS Connect Topics guide has a wide variety of topics, best practices, configur
 </a>
 
 <div class="doc-meta">
-  <strong>Last updated:</strong> Sept 3, 2025
+  <strong>Last updated:</strong> June 3, 2026
 </div>
 
 ### [Archived ZCEE Topics Guides](../docs/archive-topics-guide)
