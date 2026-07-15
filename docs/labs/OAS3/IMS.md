@@ -26,6 +26,10 @@ nav_order: 1
   Download OAS3 IMS Part 1 (GET) Lab PDF
 </a>
 
+<div class="doc-meta">
+  <strong>Lab Version Date:</strong> July 2026
+</div>
+
 ## OpenAPI 3 – IMS Lab Part 2: POST (HTTP Method)
 
 <iframe
@@ -46,6 +50,10 @@ nav_order: 1
    class="ibm-btn ibm-btn-primary">
   Download OAS3 IMS Part 2 (POST) Lab PDF
 </a>
+
+<div class="doc-meta">
+  <strong>Lab Version Date:</strong> July 2026
+</div>
 
 ## OpenAPI 3 – IMS Lab Part 3: PUT (HTTP Method)
 
@@ -68,6 +76,10 @@ nav_order: 1
   Download OAS3 IMS Part 3 (PUT) Lab PDF
 </a>
 
+<div class="doc-meta">
+  <strong>Lab Version Date:</strong> July 2026
+</div>
+
 ## OpenAPI 3 – IMS Lab Part 4: DELETE (HTTP Method)
 
 <iframe
@@ -89,3 +101,6 @@ nav_order: 1
   Download OAS3 IMS Part 4 (DELETE) Lab PDF
 </a>
 
+<div class="doc-meta">
+  <strong>Lab Version Date:</strong> July 2026
+</div>
