@@ -24,22 +24,22 @@ This page contains Liberty Security configuration hands-on labs for z/OS Connect
   [View lab details →](liberty/JWT)
 
 ### **Important Lab information PDF**
-The "Important-Read Me" PDF contains general lab information, keyboard configuration help, and more
+The "Quick Start Guide" PDF contains general Liberty lab information, keyboard configuration help, and more
 
 <iframe
-  src="../pdfs/labs/OAS2/Important-Read Me.pdf" 
+  src="../pdfs/labs/liberty/Quick Start Guide.pdf"
   width="100%"
   height="600px"
   style="border:1px solid #ccc">
 </iframe>
 
-<a href="../pdfs/labs/OAS2/Important-Read Me.pdf"
+<a href="../pdfs/labs/liberty/Quick Start Guide.pdf"
    target="_blank"
    class="ibm-btn ibm-btn-secondary">
   Full-screen preview PDF 
 </a>
 
-<a href="../pdfs/labs/OAS2/Important-Read Me.pdf"
+<a href="../pdfs/labs/liberty/Quick Start Guide.pdf"
    download
    class="ibm-btn ibm-btn-primary">
   Download Important-Read Me file
