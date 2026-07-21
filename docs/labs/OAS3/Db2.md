@@ -8,7 +8,7 @@ nav_order: 1
 # OpenAPI 3 – Developing Native Server RESTful APIs for accesing Db2 REST Services
 
 <iframe
-  src="../../pdfs/labs/OAS3/Developing Native Server RESTful APIs for accesing Db2 REST Services.pdf"
+  src="../../pdfs/labs/OAS3/Developing Native Server RESTful APIs for accesing Db2 REST Services.pdf" 
   width="100%"
   height="600px"
   style="border:1px solid #ccc">
