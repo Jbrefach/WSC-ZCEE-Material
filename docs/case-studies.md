@@ -34,30 +34,6 @@ This folder contains Security and Liberty server educational material as well as
   <strong>Last updated:</strong> 2025
 </div>
 
-### **SAF resources for controlling access to Liberty Servers** 
-<iframe
-  src="pdfs/case-studies/SAF resources for controlling access to Liberty servers.pdf" 
-  width="100%"
-  height="600px"
-  style="border:1px solid #ccc">
-</iframe>
-
-<a href="pdfs/case-studies/SAF resources for controlling access to Liberty servers.pdf"
-   target="_blank"
-   class="ibm-btn ibm-btn-secondary">
-  Full Screen Preview PDF
-</a>
-
-<a href="pdfs/case-studies/SAF resources for controlling access to Liberty servers.pdf"
-   download
-   class="ibm-btn ibm-btn-primary">
-  Download SAF resources for controlling access PDF
-</a>
-
-<div class="doc-meta">
-  <strong>Last updated:</strong> 2025
-</div>
-
 ### **Digital Certificates & TLS Handshake Educational Package** 
 <iframe
   src="pdfs/case-studies/Digital Certificates & TLS Handshake Educational Package.pdf"
