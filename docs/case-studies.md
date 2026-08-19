@@ -108,7 +108,7 @@ This folder contains Security and Liberty server educational material as well as
   <strong>Last updated:</strong> 2025
 </div>
 
-### **Demystifying Log Message IDs & how to configure Liberty to write Messages to the z/OS operator console**
+### **Demystifying Message IDs & how to configure Liberty to write specific messages to the z/OS operator console**
 <iframe
   src="pdfs/case-studies/zCEE MessageID Technical Doc.pdf" 
   width="100%"
