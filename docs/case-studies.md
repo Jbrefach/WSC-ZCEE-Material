@@ -108,6 +108,30 @@ This folder contains Security and Liberty server educational material as well as
   <strong>Last updated:</strong> 2025
 </div>
 
+### **Technical Document: Demystifying important messages found in the message.log file & how to configure Liberty so these messages will be written to the z/OS operator console**
+<iframe
+  src="pdfs/case-studies/zCEE MessageID Technical Doc.pdf" 
+  width="100%"
+  height="600px"
+  style="border:1px solid #ccc">
+</iframe>
+
+<a href="pdfs/case-studies/zCEE MessageID Technical Doc.pdf"
+   target="_blank"
+   class="ibm-btn ibm-btn-secondary">
+  Full Screen Preview PDF
+</a>
+
+<a href="pdfs/case-studies/zCEE MessageID Technical Doc.pdf"
+   download
+   class="ibm-btn ibm-btn-primary">
+  Download Log Message ID Technical Document PDF
+</a>
+
+<div class="doc-meta">
+  <strong>Last updated:</strong> 2025
+</div>
+
 ## **Case Studies**
 
 ### **A Case Study: The WSC experiences developing a CICS REST application from an OpenAPI 3 specification document**
