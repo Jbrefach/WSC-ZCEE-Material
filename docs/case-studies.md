@@ -108,7 +108,7 @@ This folder contains Security and Liberty server educational material as well as
   <strong>Last updated:</strong> 2025
 </div>
 
-### **Technical Document: Demystifying important messages found in the message.log file & how to configure Liberty so these messages will be written to the z/OS operator console**
+### **Message.log Message ID Tech Doc & how to configure Liberty so these messages will be written to the z/OS operator console**
 <iframe
   src="pdfs/case-studies/zCEE MessageID Technical Doc.pdf" 
   width="100%"
