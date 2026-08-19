@@ -129,7 +129,7 @@ This folder contains Security and Liberty server educational material as well as
 </a>
 
 <div class="doc-meta">
-  <strong>Last updated:</strong> 2025
+  <strong>Last updated:</strong> 2026
 </div>
 
 ## **Case Studies**
