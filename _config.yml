@@ -75,3 +75,14 @@ nav:
   - name: "COBOL samples"
     link: "/cobol-samples"
     nav_order: 9
+
+  - name: "IBM Redbooks"
+    link: "/redbooks"
+    nav_order: 10
+    children:
+      - name: "z/OS Redbooks"
+        link: "/redbooks/zos"
+      - name: "CICS Redbooks"
+        link: "/redbooks/cics"
+      - name: "IMS Redbooks"
+        link: "/redbooks/ims"

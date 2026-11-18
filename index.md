@@ -78,6 +78,16 @@ The COBOL samples page provides COBOL coding examples that can be used for a var
 
 ---
 
+### [**10. IBM Redbooks**](docs/redbooks)
+The IBM Redbooks collection provides technical guidance, architecture best practices, installation scenarios, and in-depth references for z/OS, CICS, and IMS.
+
+#### **Subsections**
+- [**z/OS Redbooks**](docs/redbooks/zos)
+- [**CICS Redbooks**](docs/redbooks/cics)
+- [**IMS Redbooks**](docs/redbooks/ims)
+
+---
+
 ## 📬 Contact
 If you need assistance, have questions, or have a request:
 
